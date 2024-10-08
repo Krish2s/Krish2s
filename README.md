@@ -38,26 +38,26 @@ I'm committed to using the power of **data** to drive insights, innovation, and 
 - **Hadoop** ![Hadoop](https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png)
 - **Spark** ![Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
 - **AWS** ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+- **Azure Data Lake Storage (ADLS)** ![Azure](https://img.icons8.com/fluency/48/000000/azure-1.png)
+- **Databricks** ![Databricks](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-databricks-an-open-source-unified-data-analytics-platform-developed-by-the-founders-of-apache-spark-logo-shadow-tal-revivo.png)
 - **HDFS**, **Sqoop**, **Yarn**, **Impala**, **Hive**
 
 ### 👨‍💻 **Programming & Scripting:**
 - **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
-- **Java** ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- **SQL**
+- **SQL** ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
 
 ### 🧰 **Tools & Version Control:**
 - **GitLab** ![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)
-- **Jira**  
-- **Agile Methodologies**
+- **Jira** ![Jira](https://img.icons8.com/color/48/000000/jira.png)
+- **Agile Methodologies** ![Agile](https://img.icons8.com/color/48/000000/scrum.png)
 
 ## 💬 Let's Connect!
 
 Feel free to reach out to me if you're looking to collaborate on **data-driven projects** or just want to have a chat about all things **tech**! I'm always excited to connect with professionals and enthusiasts in the industry.
 
 📧 **Email**: krushna@example.com  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/krish2s)  
 
 ---
 
-*"The future belongs to those who harness the power of data."* 
+*"The future belongs to those who harness the power of data."*

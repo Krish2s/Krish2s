@@ -39,8 +39,12 @@ I'm committed to using the power of **data** to drive insights, innovation, and 
 - **Spark** ![Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
 - **AWS** ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 - **Azure Data Lake Storage (ADLS)** ![Azure](https://img.icons8.com/fluency/48/000000/azure-1.png)
-- **Databricks** ![Databricks](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-databricks-an-open-source-unified-data-analytics-platform-developed-by-the-founders-of-apache-spark-logo-shadow-tal-revivo.png)
-- **HDFS**, **Sqoop**, **Yarn**, **Impala**, **Hive**
+- **Databricks** 
+- **HDFS**
+- **Sqoop**
+- **Yarn**
+- **Impala**
+-  **Hive**
 
 ### 👨‍💻 **Programming & Scripting:**
 - **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)

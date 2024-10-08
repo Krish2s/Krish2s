@@ -39,7 +39,7 @@ I'm committed to using the power of **data** to drive insights, innovation, and 
 - **Hadoop** 
 - **Spark** 
 - **AWS** 
-- **Azure Data Lake Storage (ADLS)** 
+- **Azure** 
 - **Databricks** 
 - **HDFS**
 - **Sqoop**

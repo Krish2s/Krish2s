@@ -62,7 +62,7 @@ I'm committed to using the power of **data** to drive insights, innovation, and 
 
 Feel free to reach out to me if you're looking to collaborate on **data-driven projects** or just want to have a chat about all things **tech**! I'm always excited to connect with professionals and enthusiasts in the industry.
 
-📧 **Email**: krushna@example.com  
+📧 **Email**: krushnagarkal2@gmail.com  
 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/krish2s)  
 
 ---

@@ -35,10 +35,11 @@ I'm committed to using the power of **data** to drive insights, innovation, and 
 ## 🛠️ Tech Stack & Skills
 
 ### 🚀 **Big Data & Cloud Technologies:**
-- **Hadoop** ![Hadoop](https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png)
-- **Spark** ![Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
-- **AWS** ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-- **Azure Data Lake Storage (ADLS)** ![Azure](https://img.icons8.com/fluency/48/000000/azure-1.png)
+![Hadoop](https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png) ![Spark](https://img.icons8.com/color/48/000000/apache-spark.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Azure](https://img.icons8.com/fluency/48/000000/azure-1.png)
+- **Hadoop** 
+- **Spark** 
+- **AWS** 
+- **Azure Data Lake Storage (ADLS)** 
 - **Databricks** 
 - **HDFS**
 - **Sqoop**
@@ -47,13 +48,15 @@ I'm committed to using the power of **data** to drive insights, innovation, and 
 -  **Hive**
 
 ### 👨‍💻 **Programming & Scripting:**
-- **Python** ![Python](https://img.icons8.com/color/48/000000/python.png)
-- **SQL** ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
+![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)
+- **Python** 
+- **SQL** 
 
 ### 🧰 **Tools & Version Control:**
-- **GitLab** ![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)
-- **Jira** ![Jira](https://img.icons8.com/color/48/000000/jira.png)
-- **Agile Methodologies** ![Agile](https://img.icons8.com/color/48/000000/scrum.png)
+![GitLab](https://img.icons8.com/color/48/000000/gitlab.png) ![Jira](https://img.icons8.com/color/48/000000/jira.png)
+- **GitLab** 
+- **Jira** 
+- **Agile Methodologies** 
 
 ## 💬 Let's Connect!
 
